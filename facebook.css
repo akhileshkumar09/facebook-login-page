@@ -1,0 +1,90 @@
+body{
+   
+    background-color: rgb(246, 246, 246);
+}
+.main{
+    margin-top: 0px;
+    margin-left: 50px;
+    
+}
+.topcontainer2{
+    text-align: center;
+    display: inline-block;
+    width: 40%;
+}
+.container1{
+    margin-top: 50px;
+    /* margin:50px 20px auto 100px; */
+   
+    width: 40%;
+    display: inline-block;
+
+    
+   
+}
+h1{
+    margin-top: 2px;
+    color: #176de6e6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    margin-bottom: 0px;
+    padding-bottom: 2px;
+}
+p{
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.7rem;
+}
+.container2{
+   
+    margin: 100px 50px auto auto ;
+    text-align: center;
+    padding: 10px;
+    
+    background-color:rgb(255, 255, 255);
+    width: 400px;
+    height: 350px;
+    box-shadow: inset;
+}
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight:lighter;
+    border-width: 1px;
+    border-color: rgb(61, 60, 60);
+    border-radius: 10px;
+    padding: 2px;
+    margin: 7px 5px;
+    width: 95%;
+    height: 50px;
+}
+.login{
+    background-color: #176de6e6;
+    color: #fff;
+    font-weight: bold;
+}
+.forgetpassward{
+    padding-top: 8px;
+    color: #176de6e6;
+    font-size: 1rem;
+}
+hr{
+    width: 95%;
+}
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    border-width: 0px;
+    border-radius: 10px;
+    width: 50%;
+    height: 50px;
+    background-color: rgb(41, 218, 53);
+    color: #fff;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top:20px;
+}
+.bottom{
+    font-size: 15px;
+    
+    margin-top: 20px;
+}
